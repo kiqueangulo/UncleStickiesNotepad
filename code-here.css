@@ -21,11 +21,17 @@
 #elise {
   background-color: #fffaf0;
   border: 7px groove #faebd7;
-  font-family: "Arno SmText Italic";
+  font-family: "Lucida Calligraphy";
   text-align: center;
   padding: 1em;
+  /*font-size: 12px;*/
   box-shadow: 3px 3px 8px #b4b1b1;
 }
+
+/*#elise p {
+  font-size: 15px;
+  line-height: 20px;
+}*/
 
 #one, #two  {
   display: inline-block;
@@ -40,7 +46,7 @@
 }
 
 #gaudi {
-  font-family: "Lucida Calligraphy";
+  font-family: "Comic Sans MS";
   text-align: center;
   padding: 1em;
   background-color: #fba07a;
