@@ -8,6 +8,7 @@
   font-family: sans-serif;
   text-align: center;
   padding: 1em;
+  background-color: #fed700;
 }
 
 #impact {
@@ -47,6 +48,7 @@
 
 #gaudi {
   font-family: "Comic Sans MS";
+  font-weight: 600;
   text-align: center;
   padding: 1em;
   background-color: #fba07a;
@@ -54,6 +56,36 @@
   box-shadow: 2px 2px 5px #808080;
 }
 
+form {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
 
+form label {
+  display: block;
+  color: #6612a5;
+}
+
+form .in {
+  width: 70%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  box-shadow: 0.1px 0.1px 18px 0.1px #e5e599;
+}
+
+form #buttom {
+  width: 71%;
+  color: #f5f5f5;
+  background-color: #735066;
+  border: none;
+  font-family: "Berlin Sans FB";
+}
+
+form h3 {
+  margin-left: 0px;
+  margin-right: 60%;
+}
 
 
